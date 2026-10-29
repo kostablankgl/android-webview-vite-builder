@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebView Builder</string>
+    <string name="open_html_file">Выбрать HTML-файл</string>
+    <string name="open_project_folder">Выбрать папку проекта</string>
+    <string name="back">Назад</string>
+    <string name="refresh">Обновить</string>
+    <string name="status_waiting">Статус: проект ещё не выбран</string>
+</resources>
